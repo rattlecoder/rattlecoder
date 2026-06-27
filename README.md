@@ -129,25 +129,6 @@ AI-powered platform to help creators and professionals grow online.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rattlecoder&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rattlecoder/rattlecoder/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
