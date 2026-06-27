@@ -101,9 +101,9 @@ AI-powered platform to help creators and professionals grow online.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rattlecoder&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattlecoder&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -113,7 +113,7 @@ AI-powered platform to help creators and professionals grow online.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rattlecoder&theme=tokyonight"/>
 
 </p>
 
@@ -123,7 +123,7 @@ AI-powered platform to help creators and professionals grow online.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rattlecoder&theme=tokyo-night"/>
 
 </p>
 
@@ -133,7 +133,7 @@ AI-powered platform to help creators and professionals grow online.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rattlecoder&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -143,7 +143,7 @@ AI-powered platform to help creators and professionals grow online.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/rattlecoder/rattlecoder/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -153,15 +153,15 @@ AI-powered platform to help creators and professionals grow online.
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/shashankt9/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://x.com/YOUR_X">
+<a href="https://x.com/shashank__says">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shashank.trivedi02@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
